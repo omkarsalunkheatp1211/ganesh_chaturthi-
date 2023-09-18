@@ -19,7 +19,7 @@
 - JavaScript
 
 ## Preview
-**Live Demo:** [Language Translation Website]()
+**Live Demo:** [Language Translation Website](https://omkarsalunkheatp1211.github.io/ganesh_chaturthi-/)
 
 ![1](https://github.com/omkarsalunkheatp1211/ganesh_chaturthi-/assets/96873232/724ee73b-d76e-49c3-bc8d-622ab23c3710)
 
@@ -33,11 +33,11 @@
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
-git clone 
+git clone https://github.com/omkarsalunkheatp1211/ganesh_chaturthi-.git
 ```
 Go to the ganesh_chaturthi directory
 ```javascript
- cd ganesh_chaturthi
+ cd ganesh_chaturthi-
 ```
 Run index.html file.
 ```javascript
