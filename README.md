@@ -19,7 +19,7 @@
 - JavaScript
 
 ## Preview
-**Live Demo:** [Language Translation Website](https://omkarsalunkheatp1211.github.io/ganesh_chaturthi-/)
+**Live Demo:** [ganesh_chaturthi](https://omkarsalunkheatp1211.github.io/ganesh_chaturthi-/)
 
 ![1](https://github.com/omkarsalunkheatp1211/ganesh_chaturthi-/assets/96873232/724ee73b-d76e-49c3-bc8d-622ab23c3710)
 
