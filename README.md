@@ -19,9 +19,10 @@
 - JavaScript
 
 ## Preview
-**Live Demo:** [Language Translation Website](https://omkarsalunkheatp1211.github.io/transaction-website/)
+**Live Demo:** [Language Translation Website]()
 
-![1](https://github.com/omkarsalunkheatp1211/transaction-website/assets/96873232/c05d61f1-67e2-4617-af89-3c8fa0078e7d)
+![1](https://github.com/omkarsalunkheatp1211/ganesh_chaturthi-/assets/96873232/724ee73b-d76e-49c3-bc8d-622ab23c3710)
+
 
 ## Features
 
